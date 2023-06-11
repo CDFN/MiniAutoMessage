@@ -1,0 +1,7 @@
+name: MiniAutoMessage
+version: '${version}'
+main: dev.cdfn.miniautomessage.MiniAutoMessagePlugin
+loader: dev.cdfn.miniautomessage.MiniAutoMessagePluginLoader
+api-version: 1.19
+authors: [ 'CDFN <bartosz@cdfn.dev>' ]
+description: Simple auto message plugin supporting MiniMessage syntax
